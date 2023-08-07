@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="X-UA-Compatible" content="ie=edge">
+  <title>TITLE</title>
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+  <link rel="stylesheet" type="text/css" media="screen" href="p3main.css">
+</head>
+
+<body>
+
+  
+  <div class="container">
+    <div class="row">
+      <div class="col-md-12 jumbotron text-center">
+        <h1>Netflix Streaming Dashboard</h1>
+        
+      </div>
+    </div>
+
+    <div class="row">
+
+      <div class="col-md-2">
+        <div class="well"  id="datePanel">
+          <h5>Select Date:</h5>
+          <select id="selDate" onchange="optionChanged(this.value)"></select>
+        </div>
+
+      <div class="panel panel-primary"  id="metaPanel">
+        <div class="panel-heading">
+          <h3 class="panel-title">Total Releases</h3>
+        </div>
+        <div id="sample-metadata" class="panel-body"></div>
+        
+      
+        <div class="col-md-5">
+          <div id="pieChart" style="width: 450px; height: 400px;"></div>
+  
+        </div>
+      </div>
+    </div>
+
+    <div class="col-md-5">
+      <div id="line"></div>
+    </div>
+
+   
+
+  <script src="https://cdn.plot.ly/plotly-latest.min.js"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/d3/5.5.0/d3.js"></script>
+  <script src="app.js"></script>
+
+
+
+</body>
+
+</html>

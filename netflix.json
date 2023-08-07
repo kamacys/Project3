@@ -1,0 +1,790 @@
+{
+  "dates": [
+    "Jan2016",
+    "Jan2017",
+    "Jan2018",
+    "Jan2019",
+    "Jan2020",
+    "Feb2016",
+    "Feb2017",
+    "Feb2018",
+    "Feb2019",
+    "Feb2020",
+    "Mar2016",
+    "Mar2017",
+    "Mar2018",
+    "Mar2019",
+    "Mar2020",
+    "Apr2016",
+    "Apr2017",
+    "Apr2018",
+    "Apr2019",
+    "Apr2020",
+    "May2016",
+    "May2017",
+    "May2018",
+    "May2019",
+    "May2020",
+    "Jun2016",
+    "Jun2017",
+    "Jun2018",
+    "Jun2019",
+    "Jun2020",
+    "Jul2016",
+    "Jul2017",
+    "Jul2018",
+    "Jul2019",
+    "Jul2020",
+    "Aug2016",
+    "Aug2017",
+    "Aug2018",
+    "Aug2019",
+    "Aug2020",
+    "Sep2016",
+    "Sep2017",
+    "Sep2018",
+    "Sep2019",
+    "Sep2020",
+    "Oct2016",
+    "Oct2017",
+    "Oct2018",
+    "Oct2019",
+    "Oct2020",
+    "Nov2016",
+    "Nov2017",
+    "Nov2018",
+    "Nov2019",
+    "Nov2020",
+    "Dec2016",
+    "Dec2017",
+    "Dec2018",
+    "Dec2019",
+    "Dec2020"
+  ],
+  "datetotal": [
+    {
+      "date": "Jan2016",
+      "total": 31
+    },
+    {
+      "date": "Jan2017",
+      "total": 32
+    },
+    {
+      "date": "Jan2018",
+      "total": 129
+    },
+    {
+      "date": "Jan2019",
+      "total": 153
+    },
+    {
+      "date": "Jan2020",
+      "total": 205
+    },
+    {
+      "date": "Feb2016",
+      "total": 29
+    },
+    {
+      "date": "Feb2017",
+      "total": 110
+    },
+    {
+      "date": "Feb2018",
+      "total": 87
+    },
+    {
+      "date": "Feb2019",
+      "total": 148
+    },
+    {
+      "date": "Feb2020",
+      "total": 114
+    },
+    {
+      "date": "Mar2016",
+      "total": 31
+    },
+    {
+      "date": "Mar2017",
+      "total": 156
+    },
+    {
+      "date": "Mar2018",
+      "total": 173
+    },
+    {
+      "date": "Mar2019",
+      "total": 172
+    },
+    {
+      "date": "Mar2020",
+      "total": 137
+    },
+    {
+      "date": "Apr2016",
+      "total": 30
+    },
+    {
+      "date": "Apr2017",
+      "total": 123
+    },
+    {
+      "date": "Apr2018",
+      "total": 115
+    },
+    {
+      "date": "Apr2019",
+      "total": 162
+    },
+    {
+      "date": "Apr2020",
+      "total": 177
+    },
+    {
+      "date": "May2016",
+      "total": 31
+    },
+    {
+      "date": "May2017",
+      "total": 100
+    },
+    {
+      "date": "May2018",
+      "total": 97
+    },
+    {
+      "date": "May2019",
+      "total": 139
+    },
+    {
+      "date": "May2020",
+      "total": 157
+    },
+    {
+      "date": "Jun2016",
+      "total": 30
+    },
+    {
+      "date": "Jun2017",
+      "total": 94
+    },
+    {
+      "date": "Jun2018",
+      "total": 78
+    },
+    {
+      "date": "Jun2019",
+      "total": 168
+    },
+    {
+      "date": "Jun2020",
+      "total": 156
+    },
+    {
+      "date": "Jul2016",
+      "total": 31
+    },
+    {
+      "date": "Jul2017",
+      "total": 79
+    },
+    {
+      "date": "Jul2018",
+      "total": 152
+    },
+    {
+      "date": "Jul2019",
+      "total": 157
+    },
+    {
+      "date": "Jul2020",
+      "total": 146
+    },
+    {
+      "date": "Aug2016",
+      "total": 31
+    },
+    {
+      "date": "Aug2017",
+      "total": 115
+    },
+    {
+      "date": "Aug2018",
+      "total": 164
+    },
+    {
+      "date": "Aug2019",
+      "total": 131
+    },
+    {
+      "date": "Aug2020",
+      "total": 129
+    },
+    {
+      "date": "Sep2016",
+      "total": 30
+    },
+    {
+      "date": "Sep2017",
+      "total": 113
+    },
+    {
+      "date": "Sep2018",
+      "total": 124
+    },
+    {
+      "date": "Sep2019",
+      "total": 123
+    },
+    {
+      "date": "Sep2020",
+      "total": 168
+    },
+    {
+      "date": "Oct2016",
+      "total": 31
+    },
+    {
+      "date": "Oct2017",
+      "total": 126
+    },
+    {
+      "date": "Oct2018",
+      "total": 191
+    },
+    {
+      "date": "Oct2019",
+      "total": 193
+    },
+    {
+      "date": "Oct2020",
+      "total": 167
+    },
+    {
+      "date": "Nov2016",
+      "total": 30
+    },
+    {
+      "date": "Nov2017",
+      "total": 85
+    },
+    {
+      "date": "Nov2018",
+      "total": 154
+    },
+    {
+      "date": "Nov2019",
+      "total": 255
+    },
+    {
+      "date": "Nov2020",
+      "total": 154
+    },
+    {
+      "date": "Dec2016",
+      "total": 31
+    },
+    {
+      "date": "Dec2017",
+      "total": 118
+    },
+    {
+      "date": "Dec2018",
+      "total": 185
+    },
+    {
+      "date": "Dec2019",
+      "total": 215
+    },
+    {
+      "date": "Dec2020",
+      "total": 169
+    }
+  ],
+  "tv_total": [
+    {
+      "date": "Jan2016",
+      "count": 22
+    },
+    {
+      "date": "Jan2017",
+      "count": 18
+    },
+    {
+      "date": "Jan2018",
+      "count": 24
+    },
+    {
+      "date": "Jan2019",
+      "count": 37
+    },
+    {
+      "date": "Jan2020",
+      "count": 53
+    },
+    {
+      "date": "Feb2016",
+      "count": 13
+    },
+    {
+      "date": "Feb2017",
+      "count": 30
+    },
+    {
+      "date": "Feb2018",
+      "count": 24
+    },
+    {
+      "date": "Feb2019",
+      "count": 45
+    },
+    {
+      "date": "Feb2020",
+      "count": 42
+    },
+    {
+      "date": "Mar2016",
+      "count": 9
+    },
+    {
+      "date": "Mar2017",
+      "count": 47
+    },
+    {
+      "date": "Mar2018",
+      "count": 35
+    },
+    {
+      "date": "Mar2019",
+      "count": 53
+    },
+    {
+      "date": "Mar2020",
+      "count": 44
+    },
+    {
+      "date": "Apr2016",
+      "count": 10
+    },
+    {
+      "date": "Apr2017",
+      "count": 31
+    },
+    {
+      "date": "Apr2018",
+      "count": 28
+    },
+    {
+      "date": "Apr2019",
+      "count": 43
+    },
+    {
+      "date": "Apr2020",
+      "count": 50
+    },
+    {
+      "date": "May2016",
+      "count": 9
+    },
+    {
+      "date": "May2017",
+      "count": 25
+    },
+    {
+      "date": "May2018",
+      "count": 27
+    },
+    {
+      "date": "May2019",
+      "count": 48
+    },
+    {
+      "date": "May2020",
+      "count": 52
+    },
+    {
+      "date": "Jun2016",
+      "count": 11
+    },
+    {
+      "date": "Jun2017",
+      "count": 29
+    },
+    {
+      "date": "Jun2018",
+      "count": 28
+    },
+    {
+      "date": "Jun2019",
+      "count": 46
+    },
+    {
+      "date": "Jun2020",
+      "count": 41
+    },
+    {
+      "date": "Jul2016",
+      "count": 15
+    },
+    {
+      "date": "Jul2017",
+      "count": 34
+    },
+    {
+      "date": "Jul2018",
+      "count": 27
+    },
+    {
+      "date": "Jul2019",
+      "count": 59
+    },
+    {
+      "date": "Jul2020",
+      "count": 43
+    },
+    {
+      "date": "Aug2016",
+      "count": 9
+    },
+    {
+      "date": "Aug2017",
+      "count": 38
+    },
+    {
+      "date": "Aug2018",
+      "count": 34
+    },
+    {
+      "date": "Aug2019",
+      "count": 44
+    },
+    {
+      "date": "Aug2020",
+      "count": 47
+    },
+    {
+      "date": "Sep2016",
+      "count": 10
+    },
+    {
+      "date": "Sep2017",
+      "count": 32
+    },
+    {
+      "date": "Sep2018",
+      "count": 43
+    },
+    {
+      "date": "Sep2019",
+      "count": 37
+    },
+    {
+      "date": "Sep2020",
+      "count": 53
+    },
+    {
+      "date": "Oct2016",
+      "count": 14
+    },
+    {
+      "date": "Oct2017",
+      "count": 29
+    },
+    {
+      "date": "Oct2018",
+      "count": 45
+    },
+    {
+      "date": "Oct2019",
+      "count": 65
+    },
+    {
+      "date": "Oct2020",
+      "count": 51
+    },
+    {
+      "date": "Nov2016",
+      "count": 10
+    },
+    {
+      "date": "Nov2017",
+      "count": 30
+    },
+    {
+      "date": "Nov2018",
+      "count": 36
+    },
+    {
+      "date": "Nov2019",
+      "count": 68
+    },
+    {
+      "date": "Nov2020",
+      "count": 51
+    },
+    {
+      "date": "Dec2016",
+      "count": 12
+    },
+    {
+      "date": "Dec2017",
+      "count": 38
+    },
+    {
+      "date": "Dec2018",
+      "count": 61
+    },
+    {
+      "date": "Dec2019",
+      "count": 47
+    },
+    {
+      "date": "Dec2020",
+      "count": 68
+    }
+  ],
+  "movie_total": [
+    {
+      "date": "Jan2016",
+      "count": 9
+    },
+    {
+      "date": "Jan2017",
+      "count": 14
+    },
+    {
+      "date": "Jan2018",
+      "count": 105
+    },
+    {
+      "date": "Jan2019",
+      "count": 116
+    },
+    {
+      "date": "Jan2020",
+      "count": 152
+    },
+    {
+      "date": "Feb2016",
+      "count": 16
+    },
+    {
+      "date": "Feb2017",
+      "count": 80
+    },
+    {
+      "date": "Feb2018",
+      "count": 63
+    },
+    {
+      "date": "Feb2019",
+      "count": 103
+    },
+    {
+      "date": "Feb2020",
+      "count": 72
+    },
+    {
+      "date": "Mar2016",
+      "count": 22
+    },
+    {
+      "date": "Mar2017",
+      "count": 109
+    },
+    {
+      "date": "Mar2018",
+      "count": 138
+    },
+    {
+      "date": "Mar2019",
+      "count": 119
+    },
+    {
+      "date": "Mar2020",
+      "count": 93
+    },
+    {
+      "date": "Apr2016",
+      "count": 20
+    },
+    {
+      "date": "Apr2017",
+      "count": 92
+    },
+    {
+      "date": "Apr2018",
+      "count": 87
+    },
+    {
+      "date": "Apr2019",
+      "count": 119
+    },
+    {
+      "date": "Apr2020",
+      "count": 127
+    },
+    {
+      "date": "May2016",
+      "count": 22
+    },
+    {
+      "date": "May2017",
+      "count": 75
+    },
+    {
+      "date": "May2018",
+      "count": 70
+    },
+    {
+      "date": "May2019",
+      "count": 91
+    },
+    {
+      "date": "May2020",
+      "count": 105
+    },
+    {
+      "date": "Jun2016",
+      "count": 19
+    },
+    {
+      "date": "Jun2017",
+      "count": 65
+    },
+    {
+      "date": "Jun2018",
+      "count": 50
+    },
+    {
+      "date": "Jun2019",
+      "count": 122
+    },
+    {
+      "date": "Jun2020",
+      "count": 115
+    },
+    {
+      "date": "Jul2016",
+      "count": 16
+    },
+    {
+      "date": "Jul2017",
+      "count": 45
+    },
+    {
+      "date": "Jul2018",
+      "count": 125
+    },
+    {
+      "date": "Jul2019",
+      "count": 98
+    },
+    {
+      "date": "Jul2020",
+      "count": 103
+    },
+    {
+      "date": "Aug2016",
+      "count": 22
+    },
+    {
+      "date": "Aug2017",
+      "count": 77
+    },
+    {
+      "date": "Aug2018",
+      "count": 130
+    },
+    {
+      "date": "Aug2019",
+      "count": 87
+    },
+    {
+      "date": "Aug2020",
+      "count": 82
+    },
+    {
+      "date": "Sep2016",
+      "count": 20
+    },
+    {
+      "date": "Sep2017",
+      "count": 81
+    },
+    {
+      "date": "Sep2018",
+      "count": 81
+    },
+    {
+      "date": "Sep2019",
+      "count": 86
+    },
+    {
+      "date": "Sep2020",
+      "count": 115
+    },
+    {
+      "date": "Oct2016",
+      "count": 17
+    },
+    {
+      "date": "Oct2017",
+      "count": 97
+    },
+    {
+      "date": "Oct2018",
+      "count": 146
+    },
+    {
+      "date": "Oct2019",
+      "count": 128
+    },
+    {
+      "date": "Oct2020",
+      "count": 116
+    },
+    {
+      "date": "Nov2016",
+      "count": 20
+    },
+    {
+      "date": "Nov2017",
+      "count": 55
+    },
+    {
+      "date": "Nov2018",
+      "count": 118
+    },
+    {
+      "date": "Nov2019",
+      "count": 187
+    },
+    {
+      "date": "Nov2020",
+      "count": 103
+    },
+    {
+      "date": "Dec2016",
+      "count": 19
+    },
+    {
+      "date": "Dec2017",
+      "count": 80
+    },
+    {
+      "date": "Dec2018",
+      "count": 124
+    },
+    {
+      "date": "Dec2019",
+      "count": 168
+    },
+    {
+      "date": "Dec2020",
+      "count": 101
+    }
+  ]
+}
