@@ -1,1 +1,2 @@
-# Project3
+# Project3 My contribution to project 3 was to work on the css and .html (front-end) as well as create a pie chart. Independently, I reformated the kaggle data and turned it into a .csv. I then used a json editor to create new arrays that would split up the data by date and type. I was also abel to created a table and chart showing the date and number of total releases; however, I was unable to get the chart update to work. 
+Tools used- https://jsoneditoronline.org/, MongoDB, googlesheets,excel
